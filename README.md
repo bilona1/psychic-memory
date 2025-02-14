@@ -1,1 +1,1 @@
-r# psychic-memory
+dgr# psychic-memory
